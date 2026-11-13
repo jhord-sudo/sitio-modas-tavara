@@ -5,32 +5,42 @@ nada de DNI, teléfonos personales ni direcciones de casas, porque este reposito
 
 ## El negocio
 
-_Escribe aquí cómo se llama, a qué se dedica, dónde está y desde cuándo atiende._
+Modas Tavara es una tienda de Nueva Cajamarca especializada en la venta de zapatillas y ropa masculina. Se encuentra ubicada estratégicamente en la esquina de Jr. Piura con Jr. Bolognesi, ofreciendo las últimas tendencias en moda urbana.
 
 ## El permiso
 
-_Escribe aquí si el dueño ya te dio permiso para hacer su sitio y para usar sus fotos y su logo (sin su nombre)._
+Actualmente, el permiso para utilizar el nombre oficial, las fotografías del local y el logotipo del negocio se encuentra en proceso de coordinación con los dueños.
 
 ## Objetivo del sitio
 
-_Escribe aquí qué tiene que lograr el sitio: más pedidos por WhatsApp, más reservas, que lo encuentren en Google…_
+Lograr que más clientes exploren las nuevas colecciones y consulten disponibilidad de tallas por WhatsApp, y que cualquier persona que busque «zapatillas y ropa de moda en Nueva Cajamarca» en Google pueda encontrar fácilmente el catálogo, la dirección física y cómo llegar a la tienda.
 
 ## Público
 
-_Escribe aquí quiénes van a visitar el sitio: edad, qué buscan y si entran más desde el celular o la computadora._
+Hombres y jóvenes de la zona que buscan vestir a la moda con las últimas novedades y tendencias urbanas. Casi todos los usuarios entrarán desde su teléfono celular, muchas veces usando datos móviles en la calle, por lo que la página debe cargar las fotos de la ropa rápido y ser fácil de navegar.
 
 ## Páginas
 
-_Escribe aquí las 4 páginas que tendrá el sitio y qué va en cada una (por ejemplo Inicio, Productos, Nosotros y Contacto)._
+Inicio. El concepto de la tienda en una frase, una foto grande de la colección de temporada, los tres productos más vendidos (zapatillas, polos, pantalones) y el botón flotante de WhatsApp.
+
+Colección / Catálogo. Galería de zapatillas y ropa disponibles con sus respectivos precios o marcas destacadas.
+
+Nosotros. Por qué Modas Tavara es el mejor lugar para encontrar las últimas tendencias en Nueva Cajamarca y el horario de atención.
+
+Contacto. Mapa con la ubicación exacta en Jr. Piura con Jr. Bolognesi, horario y un botón o formulario que abra directamente un mensaje en WhatsApp.
 
 ## Contenido que ya tienes
 
-_Escribe aquí qué fotos, logo, textos, precios u horarios te dio el negocio y qué falta conseguir._
+El logo del negocio, algunas fotos de las zapatillas que llegaron en stock y las redes sociales actuales. Faltaría tomar fotos de la fachada en la esquina y armar el listado de precios.
 
 ## Estilo visual
 
-_Escribe aquí los colores de la marca con su código (por ejemplo #1E3A8A), la tipografía y dos sitios de referencia que te gusten y por qué._
+Colores de la marca. Blanco y negro para dar un estilo limpio y moderno (streetwear), gris claro #F4F4F4 para los fondos de las tarjetas de zapatillas, y un color de acento llamativo (como un rojo intenso #E02424 o negro sólido #111111) para los botones de compra.
+
+Tipografía. Montserrat para los títulos (aporta un estilo geométrico y de moda) e Inter para los detalles y precios.
+
+Referencias. Diseños minimalistas como las tiendas oficiales de marcas deportivas o boutiques urbanas, donde las fotos de las zapatillas tienen fondos limpios para que el producto sea el protagonista absoluto._
 
 ## Boceto
 
-_Escribe aquí cómo se reparte la página de inicio (qué va arriba, en el medio y abajo) y el nombre del archivo de tu boceto en la carpeta `boceto`._
+Arriba va la cabecera con el logo (un icono de una percha o el nombre de Modas Tavara) y la navegación. Debajo, un banner grande con una foto urbana y el botón «Ver Colección». Al medio, tres tarjetas destacando diferentes categorías (ej: una camiseta, unas zapatillas y un pantalón). Luego, una sección inferior dividida en dos: a la izquierda la información de contacto y a la derecha el mapa marcando la intersección de Jr. Piura y Jr. Bolognesi. Abajo, el pie de página.
